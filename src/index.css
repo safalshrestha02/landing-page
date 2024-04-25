@@ -8,7 +8,16 @@ body {
   margin: 0;
   max-width: 97%;
   margin: auto;
-  background: linear-gradient(#ffffff 0.5%, #9BE8C2, #fff, #fff, #fff);
+  background: linear-gradient(
+    #eeeeee 0.1%,
+    #d4f8e6,
+    #eeeeee,
+    #eeeeee,
+    #eeeeee,
+    #eeeeee,
+    #eeeeee
+  );
   background-repeat: no-repeat;
   background-size: cover;
+  letter-spacing: 0.3px;
 }
